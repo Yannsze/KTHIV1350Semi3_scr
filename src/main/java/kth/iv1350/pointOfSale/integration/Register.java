@@ -14,6 +14,7 @@ public class Register {
 
     public void addAmount(double amount) {
         if (amount > 0) {
+            System.out.println("balance greater than zero");
             balance += amount;
         }
     }
