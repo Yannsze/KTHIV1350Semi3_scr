@@ -1,8 +1,8 @@
-package main.se.kth.iv1350.pointOfSale.startUp;
+package kth.iv1350.pointOfSale.startUp;
 
-import main.se.kth.iv1350.pointOfSale.integration.SystemCreator;
-import main.se.kth.iv1350.pointOfSale.controller.Controller;
-import main.se.kth.iv1350.pointOfSale.view.View;
+import kth.iv1350.pointOfSale.integration.SystemCreator;
+import kth.iv1350.pointOfSale.controller.Controller;
+import kth.iv1350.pointOfSale.view.View;
 
 /**
  * Starts the entire application. The main method.

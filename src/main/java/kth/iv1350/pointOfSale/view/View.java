@@ -1,6 +1,6 @@
-package main.se.kth.iv1350.pointOfSale.view;
+package kth.iv1350.pointOfSale.view;
 
-import main.se.kth.iv1350.pointOfSale.controller.Controller;
+import kth.iv1350.pointOfSale.controller.Controller;
 
 /**
  * This is placeholder for real view, the user interface of the program.
