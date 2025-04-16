@@ -1,4 +1,4 @@
-package main.se.kth.iv1350.pointOfSale.integration;
+package kth.iv1350.pointOfSale.integration;
 
 /**
  * This initializes the system of POS.
